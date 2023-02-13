@@ -24,7 +24,7 @@
 <li> MYSQL Locaweb</li>
 
 <h3> Hospedado na AWS EC2</h3>
-<li> <a href="http://44.205.3.29:5000" target="_blank"> http://44.205.3.29:5000 </li> </a> </br>
+<li> <a href="http://44.205.3.29:5000"> http://44.205.3.29:5000 </li> </a> </br>
 
 
 <h1 align="center">INTERFACE DO USUÁRIO EM PHP </h1>
@@ -59,4 +59,4 @@
 <li> MYSQL Locaweb </li>
 
 <h3>Hospedado na Locaweb </h3>
-<li> <a href="http://44.205.3.29:5000](http://devnology.siteprofissional.com"> http://devnology.siteprofissional.com </li>
+<li> <a href="http://devnology.siteprofissional.com"> http://devnology.siteprofissional.com </li>
