@@ -59,4 +59,4 @@
 <li> MYSQL Locaweb </li>
 
 <h3>Hospedado na Locaweb </h3>
-<li> <a href="http://44.205.3.29:5000](http://devnology.siteprofissional.com" target="_blank"> http://devnology.siteprofissional.com </li>
+<li> <a href="http://44.205.3.29:5000](http://devnology.siteprofissional.com"> http://devnology.siteprofissional.com </li>
