@@ -24,7 +24,7 @@
 <li> MYSQL Locaweb</li>
 
 <h3> Hospedado na AWS EC2</h3>
-<li> <a href="http://52.87.155.75"> http://52.87.155.75 </li> </a> </br>
+<li> <a href="http://52.87.155.75"> http://52.87.155.75 </li> </a> 
 
 <h3> Hospedado na RENDER</h3>
 <li> <a href="https://crawler-app.onrender.com"> https://crawler-app.onrender.com </li> </a> </br>
